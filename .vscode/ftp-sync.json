@@ -1,5 +1,5 @@
 {
-    "remotePath": "./",
+    "remotePath": "/tehdrive_ru/public_html/wp-content/themes/tehdrive",
     "host": "77.222.57.209",
     "username": "sabmailco3",
     "password": "ZTQJBZQfYV#4KZPV",
@@ -23,6 +23,5 @@
             ""
         ],
         "path": ""
-    },
-    "remotePath": "/tehdrive_ru/public_html/wp-content/themes/tehdrive"
+    }
 }
