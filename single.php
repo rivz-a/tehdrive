@@ -1,8 +1,6 @@
 <?php
 /**
- * The template for displaying all single posts
- *
- * @link https://developer.wordpress.org/themes/basics/template-hierarchy/#single-post
+ * The template for displaying a single post
  *
  * @package tehdrive
  */
@@ -10,31 +8,56 @@
 get_header();
 ?>
 
-	<main id="primary" class="site-main">
+<main id="primary" class="site-main container">
 
-		<?php
-		while ( have_posts() ) :
-			the_post();
+	<?php tehdrive_breadcrumbs(); ?>
 
-			get_template_part( 'template-parts/content', get_post_type() );
-
-			the_post_navigation(
-				array(
-					'prev_text' => '<span class="nav-subtitle">' . esc_html__( 'Previous:', 'tehdrive' ) . '</span> <span class="nav-title">%title</span>',
-					'next_text' => '<span class="nav-subtitle">' . esc_html__( 'Next:', 'tehdrive' ) . '</span> <span class="nav-title">%title</span>',
-				)
-			);
-
-			// If comments are open or we have at least one comment, load up the comment template.
-			if ( comments_open() || get_comments_number() ) :
-				comments_template();
-			endif;
-
-		endwhile; // End of the loop.
+	<?php
+	while ( have_posts() ) :
+		the_post();
 		?>
 
-	</main><!-- #main -->
+		<article id="post-<?php the_ID(); ?>" <?php post_class('single-post'); ?>>
+
+			<header class="entry-header">
+				<?php the_title( '<h1 class="entry-title">', '</h1>' ); ?>
+			</header>
+
+			<div class="entry-content">
+				<?php the_content(); ?>
+			</div>
+
+			<?php
+			// Навигация между записями (предыдущая / следующая)
+			the_post_navigation(
+				array(
+					'prev_text' => '<span class="nav-subtitle">' . esc_html__( 'Предыдущая запись', 'tehdrive' ) . '</span> <span class="nav-title">%title</span>',
+					'next_text' => '<span class="nav-subtitle">' . esc_html__( 'Следующая запись', 'tehdrive' ) . '</span> <span class="nav-title">%title</span>',
+				)
+			);
+			?>
+
+		</article>
+
+	<?php endwhile; ?>
+
+	<!-- ЭТАПЫ РАБОТЫ -->
+  <?php get_template_part('template-parts/block', 'stages-work'); ?>
+
+</main>
+
+<!-- ПРЕИМУЩЕСТВА -->
+<?php get_template_part('template-parts/block', 'advantages'); ?>
+
+<!-- КАК ЗАПИСАТЬСЯ -->
+<?php get_template_part('template-parts/block', 'how-to-book'); ?>
+
+<!-- НАШИ РАБОТЫ -->
+<?php get_template_part('template-parts/block', 'our-works'); ?>
+
+<!-- ЛОГОТИПЫ АВТОМОБИЛЕЙ -->
+<?php get_template_part('template-parts/block', 'car-brands'); ?>
 
 <?php
-get_sidebar();
 get_footer();
+?>

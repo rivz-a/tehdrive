@@ -65,8 +65,8 @@
 
 				<!-- Кнопки справа -->
 				<div class="header-actions">
-					<a href="#" class="btn btn-outline">Заказать звонок</a>
-					<a href="tel:+79031770613" class="btn btn-primary">+7 (903) 177-06-13</a>
+					<a href="#" class="btn btn-outline popmake-90">Заказать звонок</a>
+					<a href="tel:+79035719999" class="btn btn-primary">+7 (903) 571 9999</a>
 				</div><!-- .header-actions -->
 			</div><!-- .header-container -->
 		</header><!-- #masthead -->
