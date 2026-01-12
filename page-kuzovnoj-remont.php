@@ -28,7 +28,7 @@ get_header();
   <section class="kuzovnoy-remont-services">
     <h2>Мы делаем</h2>
     <div class="kuzovnoy-remont-container">
-      <div class="kuzovnoy-remont-service-item">
+      <a href="/kuzovnoj-remont/shtabelnye-raboty-vytyazhenie/" class="kuzovnoy-remont-service-item">
         <div class="kuzovnoy-remont-service-icon">
           <img src="<?php echo get_template_directory_uri(); ?>/images/service-icon.svg" alt="Ремонт авто" width="40" height="40">
         </div>
@@ -41,9 +41,9 @@ get_header();
             <path d="M9 18L15 12L9 6" stroke="#FF6B35" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
           </svg>
         </div>
-      </div>
+      </a>
 
-      <div class="kuzovnoy-remont-service-item">
+      <a href="/kuzovnoj-remont/remont-bamperov/" class="kuzovnoy-remont-service-item">
         <div class="kuzovnoy-remont-service-icon">
           <img src="<?php echo get_template_directory_uri(); ?>/images/service-icon.svg" alt="Ремонт авто" width="40" height="40">
         </div>
@@ -56,9 +56,9 @@ get_header();
             <path d="M9 18L15 12L9 6" stroke="#FF6B35" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
           </svg>
         </div>
-      </div>
+      </a>
 
-      <div class="kuzovnoy-remont-service-item">
+      <a href="/kuzovnoj-remont/remont-kuzova-bez-pokraski/" class="kuzovnoy-remont-service-item">
         <div class="kuzovnoy-remont-service-icon">
           <img src="<?php echo get_template_directory_uri(); ?>/images/service-icon.svg" alt="Ремонт авто" width="40" height="40">
         </div>
@@ -71,9 +71,9 @@ get_header();
             <path d="M9 18L15 12L9 6" stroke="#FF6B35" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
           </svg>
         </div>
-      </div>
+      </a>
 
-      <div class="kuzovnoy-remont-service-item">
+      <a href="/kuzovnoj-remont/armaturnye-raboty/" class="kuzovnoy-remont-service-item">
         <div class="kuzovnoy-remont-service-icon">
           <img src="<?php echo get_template_directory_uri(); ?>/images/service-icon.svg" alt="Ремонт авто" width="40" height="40">
         </div>
@@ -86,9 +86,9 @@ get_header();
             <path d="M9 18L15 12L9 6" stroke="#FF6B35" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
           </svg>
         </div>
-      </div>
+      </a>
 
-      <div class="kuzovnoy-remont-service-item">
+      <a href="/kuzovnoj-remont/zhestyanye-raboty/" class="kuzovnoy-remont-service-item">
         <div class="kuzovnoy-remont-service-icon">
           <img src="<?php echo get_template_directory_uri(); ?>/images/service-icon.svg" alt="Ремонт авто" width="40" height="40">
         </div>
@@ -101,9 +101,9 @@ get_header();
             <path d="M9 18L15 12L9 6" stroke="#FF6B35" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
           </svg>
         </div>
-      </div>
+      </a>
 
-      <div class="kuzovnoy-remont-service-item">
+      <a href="/kuzovnoj-remont/remont-vmyatin/" class="kuzovnoy-remont-service-item">
         <div class="kuzovnoy-remont-service-icon">
           <img src="<?php echo get_template_directory_uri(); ?>/images/service-icon.svg" alt="Ремонт авто" width="40" height="40">
         </div>
@@ -116,9 +116,9 @@ get_header();
             <path d="M9 18L15 12L9 6" stroke="#FF6B35" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
           </svg>
         </div>
-      </div>
+      </a>
 
-      <div class="kuzovnoy-remont-service-item">
+      <a href="/kuzovnoj-remont/remont-supportov/" class="kuzovnoy-remont-service-item">
         <div class="kuzovnoy-remont-service-icon">
           <img src="<?php echo get_template_directory_uri(); ?>/images/service-icon.svg" alt="Ремонт авто" width="40" height="40">
         </div>
@@ -131,9 +131,24 @@ get_header();
             <path d="M9 18L15 12L9 6" stroke="#FF6B35" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
           </svg>
         </div>
-      </div>
+      </a>
 
-      <div class="kuzovnoy-remont-service-item">
+      <a href="/kuzovnoj-remont/remont-skolov/" class="kuzovnoy-remont-service-item">
+        <div class="kuzovnoy-remont-service-icon">
+          <img src="<?php echo get_template_directory_uri(); ?>/images/service-icon.svg" alt="Ремонт авто" width="40" height="40">
+        </div>
+        <div class="kuzovnoy-remont-service-content">
+          <h3>Ремонт сколов</h3>
+          <p>От 3000 ₽</p>
+        </div>
+        <div class="kuzovnoy-remont-service-arrow">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M9 18L15 12L9 6" stroke="#FF6B35" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+          </svg>
+        </div>
+      </a>
+
+      <a href="/kuzovnoj-remont/lokalnyj-remont-kuzova/" class="kuzovnoy-remont-service-item">
         <div class="kuzovnoy-remont-service-icon">
           <img src="<?php echo get_template_directory_uri(); ?>/images/service-icon.svg" alt="Ремонт авто" width="40" height="40">
         </div>
@@ -146,9 +161,9 @@ get_header();
             <path d="M9 18L15 12L9 6" stroke="#FF6B35" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
           </svg>
         </div>
-      </div>
+      </a>
 
-      <div class="kuzovnoy-remont-service-item">
+      <a href="/kuzovnoj-remont/vosstanovlenie-geometrii-kuzova/" class="kuzovnoy-remont-service-item">
         <div class="kuzovnoy-remont-service-icon">
           <img src="<?php echo get_template_directory_uri(); ?>/images/service-icon.svg" alt="Ремонт авто" width="40" height="40">
         </div>
@@ -161,9 +176,9 @@ get_header();
             <path d="M9 18L15 12L9 6" stroke="#FF6B35" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
           </svg>
         </div>
-      </div>
+      </a>
 
-      <div class="kuzovnoy-remont-service-item">
+      <a href="/kuzovnoj-remont/remont-i-zamena-porogov/" class="kuzovnoy-remont-service-item">
         <div class="kuzovnoy-remont-service-icon">
           <img src="<?php echo get_template_directory_uri(); ?>/images/service-icon.svg" alt="Ремонт авто" width="40" height="40">
         </div>
@@ -176,9 +191,9 @@ get_header();
             <path d="M9 18L15 12L9 6" stroke="#FF6B35" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
           </svg>
         </div>
-      </div>
+      </a>
 
-      <div class="kuzovnoy-remont-service-item">
+      <a href="/kuzovnoj-remont/remont-kuzova-avtomobilya/" class="kuzovnoy-remont-service-item">
         <div class="kuzovnoy-remont-service-icon">
           <img src="<?php echo get_template_directory_uri(); ?>/images/service-icon.svg" alt="Ремонт авто" width="40" height="40">
         </div>
@@ -191,9 +206,9 @@ get_header();
             <path d="M9 18L15 12L9 6" stroke="#FF6B35" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
           </svg>
         </div>
-      </div>
+      </a>
 
-      <div class="kuzovnoy-remont-service-item">
+      <a href="/kuzovnoj-remont/remont-i-zamena-far-avtomobilya/" class="kuzovnoy-remont-service-item">
         <div class="kuzovnoy-remont-service-icon">
           <img src="<?php echo get_template_directory_uri(); ?>/images/service-icon.svg" alt="Ремонт авто" width="40" height="40">
         </div>
@@ -206,9 +221,9 @@ get_header();
             <path d="M9 18L15 12L9 6" stroke="#FF6B35" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
           </svg>
         </div>
-      </div>
+      </a>
 
-      <div class="kuzovnoy-remont-service-item">
+      <a href="/kuzovnoj-remont/remont-kryshki-bagazhnika/" class="kuzovnoy-remont-service-item">
         <div class="kuzovnoy-remont-service-icon">
           <img src="<?php echo get_template_directory_uri(); ?>/images/service-icon.svg" alt="Ремонт авто" width="40" height="40">
         </div>
@@ -221,9 +236,9 @@ get_header();
             <path d="M9 18L15 12L9 6" stroke="#FF6B35" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
           </svg>
         </div>
-      </div>
+      </a>
 
-      <div class="kuzovnoy-remont-service-item">
+      <a href="/kuzovnoj-remont/remont-i-zamena-kryla-avtomobilya/" class="kuzovnoy-remont-service-item">
         <div class="kuzovnoy-remont-service-icon">
           <img src="<?php echo get_template_directory_uri(); ?>/images/service-icon.svg" alt="Ремонт авто" width="40" height="40">
         </div>
@@ -236,9 +251,9 @@ get_header();
             <path d="M9 18L15 12L9 6" stroke="#FF6B35" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
           </svg>
         </div>
-      </div>
+      </a>
 
-      <div class="kuzovnoy-remont-service-item">
+      <a href="/kuzovnoj-remont/remont-dveri-avtomobilya/" class="kuzovnoy-remont-service-item">
         <div class="kuzovnoy-remont-service-icon">
           <img src="<?php echo get_template_directory_uri(); ?>/images/service-icon.svg" alt="Ремонт авто" width="40" height="40">
         </div>
@@ -251,9 +266,9 @@ get_header();
             <path d="M9 18L15 12L9 6" stroke="#FF6B35" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
           </svg>
         </div>
-      </div>
+      </a>
 
-      <div class="kuzovnoy-remont-service-item">
+      <a href="/kuzovnoj-remont/remont-i-zamena-lonzheronov/" class="kuzovnoy-remont-service-item">
         <div class="kuzovnoy-remont-service-icon">
           <img src="<?php echo get_template_directory_uri(); ?>/images/service-icon.svg" alt="Ремонт авто" width="40" height="40">
         </div>
@@ -266,9 +281,9 @@ get_header();
             <path d="M9 18L15 12L9 6" stroke="#FF6B35" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
           </svg>
         </div>
-      </div>
+      </a>
 
-      <div class="kuzovnoy-remont-service-item">
+      <a href="/kuzovnoj-remont/remont-kryshi-avtomobilya/" class="kuzovnoy-remont-service-item">
         <div class="kuzovnoy-remont-service-icon">
           <img src="<?php echo get_template_directory_uri(); ?>/images/service-icon.svg" alt="Ремонт авто" width="40" height="40">
         </div>
@@ -281,9 +296,9 @@ get_header();
             <path d="M9 18L15 12L9 6" stroke="#FF6B35" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
           </svg>
         </div>
-      </div>
+      </a>
 
-      <div class="kuzovnoy-remont-service-item">
+      <a href="/kuzovnoj-remont/remont-bokovogo-zerkala-zadnego-vida/" class="kuzovnoy-remont-service-item">
         <div class="kuzovnoy-remont-service-icon">
           <img src="<?php echo get_template_directory_uri(); ?>/images/service-icon.svg" alt="Ремонт авто" width="40" height="40">
         </div>
@@ -296,9 +311,9 @@ get_header();
             <path d="M9 18L15 12L9 6" stroke="#FF6B35" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
           </svg>
         </div>
-      </div>
+      </a>
 
-      <div class="kuzovnoy-remont-service-item">
+      <a href="/kuzovnoj-remont/remont-ramy/" class="kuzovnoy-remont-service-item">
         <div class="kuzovnoy-remont-service-icon">
           <img src="<?php echo get_template_directory_uri(); ?>/images/service-icon.svg" alt="Ремонт авто" width="40" height="40">
         </div>
@@ -311,9 +326,9 @@ get_header();
             <path d="M9 18L15 12L9 6" stroke="#FF6B35" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
           </svg>
         </div>
-      </div>
+      </a>
 
-      <div class="kuzovnoy-remont-service-item">
+      <a href="/kuzovnoj-remont/stapelnye-raboty/" class="kuzovnoy-remont-service-item">
         <div class="kuzovnoy-remont-service-icon">
           <img src="<?php echo get_template_directory_uri(); ?>/images/service-icon.svg" alt="Ремонт авто" width="40" height="40">
         </div>
@@ -326,9 +341,9 @@ get_header();
             <path d="M9 18L15 12L9 6" stroke="#FF6B35" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
           </svg>
         </div>
-      </div>
+      </a>
 
-      <div class="kuzovnoy-remont-service-item">
+      <a href="/kuzovnoj-remont/svarochnye-raboty/" class="kuzovnoy-remont-service-item">
         <div class="kuzovnoy-remont-service-icon">
           <img src="<?php echo get_template_directory_uri(); ?>/images/service-icon.svg" alt="Ремонт авто" width="40" height="40">
         </div>
@@ -341,7 +356,7 @@ get_header();
             <path d="M9 18L15 12L9 6" stroke="#FF6B35" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
           </svg>
         </div>
-      </div>
+      </a>
     </div>
   </section>
 

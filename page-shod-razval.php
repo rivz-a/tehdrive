@@ -29,7 +29,7 @@ get_header();
     <h2>Мы делаем</h2>
     <div class="kuzovnoy-remont-container">
 
-      <div class="kuzovnoy-remont-service-item">
+      <a href="/shod-razval/diagnostika-podveski/" class="kuzovnoy-remont-service-item">
         <div class="kuzovnoy-remont-service-icon">
           <img src="<?php echo get_template_directory_uri(); ?>/images/service-icon.svg" alt="Ремонт авто" width="40" height="40">
         </div>
@@ -42,9 +42,9 @@ get_header();
             <path d="M9 18L15 12L9 6" stroke="#FF6B35" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
           </svg>
         </div>
-      </div>
+      </a>
 
-      <div class="kuzovnoy-remont-service-item">
+      <a href="/shod-razval/balansirovka-koles/" class="kuzovnoy-remont-service-item">
         <div class="kuzovnoy-remont-service-icon">
           <img src="<?php echo get_template_directory_uri(); ?>/images/service-icon.svg" alt="Ремонт авто" width="40" height="40">
         </div>
@@ -57,9 +57,9 @@ get_header();
             <path d="M9 18L15 12L9 6" stroke="#FF6B35" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
           </svg>
         </div>
-      </div>
+      </a>
 
-      <div class="kuzovnoy-remont-service-item">
+      <a href="/shod-razval/3d-shod-razval/" class="kuzovnoy-remont-service-item">
         <div class="kuzovnoy-remont-service-icon">
           <img src="<?php echo get_template_directory_uri(); ?>/images/service-icon.svg" alt="Ремонт авто" width="40" height="40">
         </div>
@@ -72,7 +72,7 @@ get_header();
             <path d="M9 18L15 12L9 6" stroke="#FF6B35" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
           </svg>
         </div>
-      </div>
+      </a>
     </div>
   </section>
 

@@ -48,73 +48,74 @@
 		<div class="footer-column">
 			<h4>Кузовной ремонт</h4>
 			<ul>
-				<li><a href="#">Штабель вытяжения</a></li>
-				<li><a href="#">Ремонт бамперов</a></li>
-				<li><a href="#">Ремонт кузова без покраски</a></li>
-				<li><a href="#">Арматурные работы</a></li>
-				<li><a href="#">Жестяные работы</a></li>
-				<li><a href="#">Ремонт вмятин</a></li>
-				<li><a href="#">Ремонт сколов</a></li>
-				<li><a href="#">Ремонт суппортов</a></li>
-				<li><a href="#">Локальный ремонт кузова автомобиля</a></li>
-				<li><a href="#">Восстановление геометрии кузова</a></li>
-				<li><a href="#">Ремонт и замена порогов</a></li>
-				<li><a href="#">Ремонт кузова автомобиля</a></li>
-				<li><a href="#">Ремонт и замена фар автомобиля</a></li>
-				<li><a href="#">Ремонт крышки багажника</a></li>
-				<li><a href="#">Ремонт и замена крыла автомобиля</a></li>
-				<li><a href="#">Ремонт двери автомобиля</a></li>
-				<li><a href="#">Ремонт и замена лонжеронов</a></li>
-				<li><a href="#">Ремонт крыши автомобиля</a></li>
-				<li><a href="#">Ремонт бокового зеркала заднего вида</a></li>
-				<li><a href="#">Ремонт рамы</a></li>
-				<li><a href="#">Стапельные работы</a></li>
-				<li><a href="#">Сварочные работы</a></li>
+				<li><a href="/kuzovnoj-remont/shtabelnye-raboty-vytyazhenie/">Штабель вытяжения</a></li>
+				<li><a href="/kuzovnoj-remont/remont-bamperov/">Ремонт бамперов</a></li>
+				<li><a href="/kuzovnoj-remont/remont-kuzova-bez-pokraski/">Ремонт кузова без покраски</a></li>
+				<li><a href="/kuzovnoj-remont/armaturnye-raboty/">Арматурные работы</a></li>
+				<li><a href="/kuzovnoj-remont/zhestyanye-raboty/">Жестяные работы</a></li>
+				<li><a href="/kuzovnoj-remont/remont-vmyatin/">Ремонт вмятин</a></li>
+				<li><a href="/kuzovnoj-remont/remont-skolov/">Ремонт сколов</a></li>
+				<li><a href="/kuzovnoj-remont/remont-supportov/">Ремонт суппортов</a></li>
+				<li><a href="/kuzovnoj-remont/lokalnyj-remont-kuzova/">Локальный ремонт кузова автомобиля</a></li>
+				<li><a href="/kuzovnoj-remont/vosstanovlenie-geometrii-kuzova/">Восстановление геометрии кузова</a></li>
+				<li><a href="/kuzovnoj-remont/remont-i-zamena-porogov/">Ремонт и замена порогов</a></li>
+				<li><a href="/kuzovnoj-remont/remont-kuzova-avtomobilya/">Ремонт кузова автомобиля</a></li>
+				<li><a href="/kuzovnoj-remont/remont-i-zamena-far-avtomobilya/">Ремонт и замена фар автомобиля</a></li>
+				<li><a href="/kuzovnoj-remont/remont-kryshki-bagazhnika/">Ремонт крышки багажника</a></li>
+				<li><a href="/kuzovnoj-remont/remont-i-zamena-kryla-avtomobilya/">Ремонт и замена крыла автомобиля</a></li>
+				<li><a href="/kuzovnoj-remont/remont-dveri-avtomobilya/">Ремонт двери автомобиля</a></li>
+				<li><a href="/kuzovnoj-remont/remont-i-zamena-lonzheronov/">Ремонт и замена лонжеронов</a></li>
+				<li><a href="/kuzovnoj-remont/remont-kryshi-avtomobilya/">Ремонт крыши автомобиля</a></li>
+				<li><a href="/kuzovnoj-remont/remont-bokovogo-zerkala-zadnego-vida/">Ремонт бокового зеркала заднего вида</a></li>
+				<li><a href="/kuzovnoj-remont/remont-ramy/">Ремонт рамы</a></li>
+				<li><a href="/kuzovnoj-remont/stapelnye-raboty/">Стапельные работы</a></li>
+				<li><a href="/kuzovnoj-remont/svarochnye-raboty/">Сварочные работы</a></li>
 			</ul>
 		</div>
 
 		<div class="footer-column">
 			<h4>Слесарный ремонт</h4>
 			<ul>
-				<li><a href="#">Замена сцепления</a></li>
-				<li><a href="#">Замена тормозных дисков</a></li>
-				<li><a href="#">Замена тормозных колодок</a></li>
-				<li><a href="#">Ремонт рулевого управления</a></li>
-				<li><a href="#">Ремонт двигателя</a></li>
-				<li><a href="#">Ремонт подвески</a></li>
-				<li><a href="#">Ремонт топливной системы</a></li>
-				<li><a href="#">Ремонт выхлопной системы</a></li>
-				<li><a href="#">Ремонт системы охлаждения двигателя</a></li>
-				<li><a href="#">Ремонт тормозной системы</a></li>
-				<li><a href="#">Замена глушителя</a></li>
+				<li><a href="/slesarnyj-remont/zamena-sczepleniya/">Замена сцепления</a></li>
+				<li><a href="/slesarnyj-remont/zamena-tormoznyh-diskov/">Замена тормозных дисков</a></li>
+				<li><a href="/slesarnyj-remont/zamena-tormoznyh-kolodok/">Замена тормозных колодок</a></li>
+				<li><a href="/slesarnyj-remont/remont-rulevogo-upravleniya/">Ремонт рулевого управления</a></li>
+				<li><a href="/slesarnyj-remont/remont-dvigatelya/">Ремонт двигателя</a></li>
+				<li><a href="/slesarnyj-remont/remont-podveski/">Ремонт подвески</a></li>
+				<li><a href="/slesarnyj-remont/remont-toplivnoj-sistemy/">Ремонт топливной системы</a></li>
+				<li><a href="/slesarnyj-remont/remont-vyhlopnoj-sistemy/">Ремонт выхлопной системы</a></li>
+				<li><a href="/slesarnyj-remont/remont-sistemy-ohlazhdeniya-dvigatelya/">Ремонт системы охлаждения двигателя</a></li>
+				<li><a href="/slesarnyj-remont/protochka-tormoznyh-diskov/">Проточка тормозных дисков</a></li>
+				<li><a href="/slesarnyj-remont/remont-tormoznoj-sistemy/">Ремонт тормозной системы</a></li>
+				<li><a href="/slesarnyj-remont/zamena-glushitelya/">Замена глушителя</a></li>
 			</ul>
 		</div>
 
 		<div class="footer-column">
 			<h4>Сход-развал 3D</h4>
 			<ul>
-				<li><a href="#">3D сход-развал</a></li>
-				<li><a href="#">Балансировка колес</a></li>
-				<li><a href="#">Диагностика подвески</a></li>
+				<li><a href="/shod-razval/3d-shod-razval/">3D сход-развал</a></li>
+				<li><a href="/shod-razval/balansirovka-koles/">Балансировка колес</a></li>
+				<li><a href="/shod-razval/diagnostika-podveski/">Диагностика подвески</a></li>
 			</ul>
 		</div>
 
 		<div class="footer-column">
 			<h4>Автопокраска</h4>
 			<ul>
-				<li><a href="#">Малярные работы</a></li>
-				<li><a href="#">Покраска суппортов</a></li>
-				<li><a href="#">Полная покраска автомобиля</a></li>
-				<li><a href="#">Покраска деталей автомобиля</a></li>
-				<li><a href="#">Покраска мотоцикла</a></li>
-				<li><a href="#">Частичная покраска</a></li>
-				<li><a href="#">Покраска крыши автомобиля</a></li>
-				<li><a href="#">Покраска крыла</a></li>
-				<li><a href="#">Покраска двери автомобиля</a></li>
-				<li><a href="#">Покраска капота</a></li>
-				<li><a href="#">Покраска бампера</a></li>
-				<li><a href="#">Покраска багажника</a></li>
-				<li><a href="#">Покраска бокового зеркала</a></li>
+				<li><a href="/avtopokraska/malyarnye-raboty/">Малярные работы</a></li>
+				<li><a href="/avtopokraska/pokraska-supportov/">Покраска суппортов</a></li>
+				<li><a href="/avtopokraska/polnaya-pokraska-avtomobilya/">Полная покраска автомобиля</a></li>
+				<li><a href="/avtopokraska/pokraska-detalej-avtomobilya/">Покраска деталей автомобиля</a></li>
+				<li><a href="/avtopokraska/pokraska-motoczikla/">Покраска мотоцикла</a></li>
+				<li><a href="/avtopokraska/chastichnaya-pokraska/">Частичная покраска</a></li>
+				<li><a href="/avtopokraska/pokraska-kryshi-avtomobilya/">Покраска крыши автомобиля</a></li>
+				<li><a href="/avtopokraska/pokraska-kryla/">Покраска крыла</a></li>
+				<li><a href="/avtopokraska/pokraska-dveri-avtomobilya/">Покраска двери автомобиля</a></li>
+				<li><a href="/avtopokraska/pokraska-kapota/">Покраска капота</a></li>
+				<li><a href="/avtopokraska/pokraska-bampera/">Покраска бампера</a></li>
+				<li><a href="/avtopokraska/pokraska-bagazhnika/">Покраска багажника</a></li>
+				<li><a href="/avtopokraska/pokraska-bokovogo-zerkala/">Покраска бокового зеркала</a></li>
 			</ul>
 		</div>
 

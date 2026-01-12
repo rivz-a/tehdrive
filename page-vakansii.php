@@ -41,7 +41,7 @@ get_header();
         <?php the_content(); ?>
       </div>
 
-      <a href="#" class="btn btn-primary">Связаться с нами</a>
+      <a href="#" class="btn btn-primary popmake-90">Связаться с нами</a>
 
     </section>
   <?php endwhile; ?>

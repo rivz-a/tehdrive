@@ -62,27 +62,28 @@ get_header();
           </div>
 
           <div class="services-list">
-            <button class="service-tag">Штабель вытяжения</button>
-            <button class="service-tag">Ремонт бамперов</button>
-            <button class="service-tag">Ремонт кузова без покраски</button>
-            <button class="service-tag">Арматурные работы</button>
-            <button class="service-tag">Жестяные работы</button>
-            <button class="service-tag">Ремонт вмятин</button>
-            <button class="service-tag">Ремонт суппортов</button>
-            <button class="service-tag">Локальный ремонт кузова автомобиля</button>
-            <button class="service-tag">Восстановление геометрии кузова</button>
-            <button class="service-tag">Ремонт и замена порогов</button>
-            <button class="service-tag">Ремонт кузова автомобиля</button>
-            <button class="service-tag">Ремонт и замена фар автомобиля</button>
-            <button class="service-tag">Ремонт крышки багажника</button>
-            <button class="service-tag">Ремонт и замена крыла автомобиля</button>
-            <button class="service-tag">Ремонт двери автомобиля</button>
-            <button class="service-tag">Ремонт и замена лонжеронов</button>
-            <button class="service-tag">Ремонт крыши автомобиля</button>
-            <button class="service-tag">Ремонт бокового зеркала заднего вида</button>
-            <button class="service-tag">Ремонт рамы</button>
-            <button class="service-tag">Стапельные работы</button>
-            <button class="service-tag">Сварочные работы</button>
+            <a href="/kuzovnoj-remont/shtabelnye-raboty-vytyazhenie/" class="service-tag">Штабель вытяжения</a>
+            <a href="/kuzovnoj-remont/remont-bamperov/" class="service-tag">Ремонт бамперов</a>
+            <a href="/kuzovnoj-remont/remont-kuzova-bez-pokraski/" class="service-tag">Ремонт кузова без покраски</a>
+            <a href="/kuzovnoj-remont/armaturnye-raboty/" class="service-tag">Арматурные работы</a>
+            <a href="/kuzovnoj-remont/zhestyanye-raboty/" class="service-tag">Жестяные работы</a>
+            <a href="/kuzovnoj-remont/remont-vmyatin/" class="service-tag">Ремонт вмятин</a>
+            <a href="/kuzovnoj-remont/remont-supportov/" class="service-tag">Ремонт суппортов</a>
+            <a href="/kuzovnoj-remont/remont-skolov/" class="service-tag">Ремонт сколов</a>
+            <a href="/kuzovnoj-remont/lokalnyj-remont-kuzova/" class="service-tag">Локальный ремонт кузова автомобиля</a>
+            <a href="/kuzovnoj-remont/vosstanovlenie-geometrii-kuzova/" class="service-tag">Восстановление геометрии кузова</a>
+            <a href="/kuzovnoj-remont/remont-i-zamena-porogov/" class="service-tag">Ремонт и замена порогов</a>
+            <a href="/kuzovnoj-remont/remont-kuzova-avtomobilya/" class="service-tag">Ремонт кузова автомобиля</a>
+            <a href="/kuzovnoj-remont/remont-i-zamena-far-avtomobilya/" class="service-tag">Ремонт и замена фар автомобиля</a>
+            <a href="/kuzovnoj-remont/remont-kryshki-bagazhnika/" class="service-tag">Ремонт крышки багажника</a>
+            <a href="/kuzovnoj-remont/remont-i-zamena-kryla-avtomobilya/" class="service-tag">Ремонт и замена крыла автомобиля</a>
+            <a href="/kuzovnoj-remont/remont-dveri-avtomobilya/" class="service-tag">Ремонт двери автомобиля</a>
+            <a href="/kuzovnoj-remont/remont-i-zamena-lonzheronov/" class="service-tag">Ремонт и замена лонжеронов</a>
+            <a href="/kuzovnoj-remont/remont-kryshi-avtomobilya/" class="service-tag">Ремонт крыши автомобиля</a>
+            <a href="/kuzovnoj-remont/remont-bokovogo-zerkala-zadnego-vida/" class="service-tag">Ремонт бокового зеркала заднего вида</a>
+            <a href="/kuzovnoj-remont/remont-ramy/" class="service-tag">Ремонт рамы</a>
+            <a href="/kuzovnoj-remont/stapelnye-raboty/" class="service-tag">Стапельные работы</a>
+            <a href="/kuzovnoj-remont/svarochnye-raboty/" class="service-tag">Сварочные работы</a>
           </div>
         </div>
 
@@ -103,10 +104,9 @@ get_header();
           </div>
 
           <div class="services-list">
-            <button class="service-tag">3D сход-развал</button>
-            <button class="service-tag">Балансировка колес</button>
-            <button class="service-tag">Диагностика подвески</button>
-            <!-- добавьте свои теги -->
+            <a href="/shod-razval/3d-shod-razval/" class="service-tag">3D сход-развал</a>
+            <a href="/shod-razval/balansirovka-koles/" class="service-tag">Балансировка колес</a>
+            <a href="/shod-razval/diagnostika-podveski/" class="service-tag">Диагностика подвески</a>
           </div>
         </div>
 
@@ -127,18 +127,18 @@ get_header();
           </div>
 
           <div class="services-list">
-            <button class="service-tag">Замена сцепления</button>
-            <button class="service-tag">Замена тормозных дисков</button>
-            <button class="service-tag">Замена тормозных колодок</button>
-            <button class="service-tag">Ремонт рулевого управления</button>
-            <button class="service-tag">Ремонт двигателя</button>
-            <button class="service-tag">Ремонт подвески</button>
-            <button class="service-tag">Ремонт топливной системы</button>
-            <button class="service-tag">Ремонт выхлопной системы</button>
-            <button class="service-tag">Ремонт системы охлаждения двигателя</button>
-            <button class="service-tag">Проточка тормозных дисков</button>
-            <button class="service-tag">Ремонт тормозной системы</button>
-            <button class="service-tag">Замена глушителя</button>
+            <a href="/slesarnyj-remont/zamena-sczepleniya/" class="service-tag">Замена сцепления</a>
+            <a href="/slesarnyj-remont/zamena-tormoznyh-diskov/" class="service-tag">Замена тормозных дисков</a>
+            <a href="/slesarnyj-remont/zamena-tormoznyh-kolodok/" class="service-tag">Замена тормозных колодок</a>
+            <a href="/slesarnyj-remont/remont-rulevogo-upravleniya/" class="service-tag">Ремонт рулевого управления</a>
+            <a href="/slesarnyj-remont/remont-dvigatelya/" class="service-tag">Ремонт двигателя</a>
+            <a href="/slesarnyj-remont/remont-podveski/" class="service-tag">Ремонт подвески</a>
+            <a href="/slesarnyj-remont/remont-toplivnoj-sistemy/" class="service-tag">Ремонт топливной системы</a>
+            <a href="/slesarnyj-remont/remont-vyhlopnoj-sistemy/" class="service-tag">Ремонт выхлопной системы</a>
+            <a href="/slesarnyj-remont/remont-sistemy-ohlazhdeniya-dvigatelya/" class="service-tag">Ремонт системы охлаждения двигателя</a>
+            <a href="/slesarnyj-remont/protochka-tormoznyh-diskov/"  class="service-tag">Проточка тормозных дисков</a>
+            <a href="/slesarnyj-remont/remont-tormoznoj-sistemy/" class="service-tag">Ремонт тормозной системы</a>
+            <a href="/slesarnyj-remont/zamena-glushitelya/"  class="service-tag">Замена глушителя</a>
           </div>
         </div>
 
@@ -159,19 +159,19 @@ get_header();
           </div>
 
           <div class="services-list">
-            <button class="service-tag">Малярные работы</button>
-            <button class="service-tag">Покраска суппортов</button>
-            <button class="service-tag">Полная покраска автомобиля</button>
-            <button class="service-tag">Покраска деталей автомобиля</button>
-            <button class="service-tag">Покраска мотоцикла</button>
-            <button class="service-tag">Частичная покраска</button>
-            <button class="service-tag">Покраска крыши автомобиля</button>
-            <button class="service-tag">Покраска крыла</button>
-            <button class="service-tag">Покраска двери автомобиля</button>
-            <button class="service-tag">Покраска капота</button>
-            <button class="service-tag">Покраска бампера</button>
-            <button class="service-tag">Покраска багажника</button>
-            <button class="service-tag">Покраска бокового зеркала</button>
+            <a href="/avtopokraska/malyarnye-raboty/"  class="service-tag">Малярные работы</a>
+            <a href="/avtopokraska/pokraska-supportov/"  class="service-tag">Покраска суппортов</a>
+            <a href="/avtopokraska/polnaya-pokraska-avtomobilya/" class="service-tag">Полная покраска автомобиля</a>
+            <a href="/avtopokraska/pokraska-detalej-avtomobilya/" class="service-tag">Покраска деталей автомобиля</a>
+            <a href="/avtopokraska/pokraska-motoczikla/" class="service-tag">Покраска мотоцикла</a>
+            <a href="/avtopokraska/chastichnaya-pokraska/" class="service-tag">Частичная покраска</a>
+            <a href="/avtopokraska/pokraska-kryshi-avtomobilya/" class="service-tag">Покраска крыши автомобиля</a>
+            <a href="/avtopokraska/pokraska-kryla/" class="service-tag">Покраска крыла</a>
+            <a href="/avtopokraska/pokraska-dveri-avtomobilya/" class="service-tag">Покраска двери автомобиля</a>
+            <a href="/avtopokraska/pokraska-kapota/" class="service-tag">Покраска капота</a>
+            <a href="/avtopokraska/pokraska-bampera/" class="service-tag">Покраска бампера</a>
+            <a href="/avtopokraska/pokraska-bagazhnika/" class="service-tag">Покраска багажника</a>
+            <a href="/avtopokraska/pokraska-bokovogo-zerkala/" class="service-tag">Покраска бокового зеркала</a>
           </div>
         </div>
       </div>
