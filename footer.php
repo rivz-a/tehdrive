@@ -35,11 +35,12 @@
 			</div>
 			<div class="contact-item">
 				<strong>E-mail</strong>
-				<p><a href="mailto:tehdrive@tehdrive.ru">tehdrive@tehdrive.ru</a></p>
+				<p><a href="mailto:info@tehdrive.ru">info@tehdrive.ru</a></p>
 			</div>
 			<div class="contact-item">
 				<strong>Телефоны</strong>
-				<p>+7 (903) 571 9999</p>
+				<a href="tel:+79035719999" class="phone-link">+7 (903) 571 9999</a>
+				<a href="tel:+79031770613" class="phone-link">+7 (903) 177 0613</a>
 			</div>
 			<a href="#" class="btn btn-primary popmake-90">Заказать звонок</a>
 		</div>

@@ -8,7 +8,8 @@
         <div class="timeline-step">
           <div class="timeline-text">
             <p>Позвоните нам по номеру</p>
-            <a href="tel:+79031770613" class="phone-link">+7 (903) 571 9999</a>
+            <a href="tel:+79035719999" class="phone-link">+7 (903) 571 9999</a>
+            <a href="tel:+79031770613" class="phone-link">+7 (903) 177 0613</a>
             <p>и опишите вопрос</p>
           </div>
           <div class="timeline-dot"></div>

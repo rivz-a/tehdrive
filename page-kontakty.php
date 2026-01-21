@@ -30,7 +30,8 @@ get_header();
       <!-- Телефоны -->
       <div class="contact-item">
         <h3>Телефоны</h3>
-        <p><a href="tel:+79031770613">+7 (903) 571 9999</a></p>
+        <p><a href="tel:+79031770613">+7 (903) 177 0613</a></p>
+        <p><a href="tel:+79035719999">+7 (903) 571 9999</a></p>
       </div>
 
       <!-- Время работы -->
@@ -42,7 +43,7 @@ get_header();
       <!-- E-mail -->
       <div class="contact-item">
         <h3>E-mail</h3>
-        <p><a href="mailto:tehdrive@tehdrive.ru">tehdrive@tehdrive.ru</a></p>
+        <p><a href="mailto:info@tehdrive.ru">info@tehdrive.ru</a></p>
       </div>
 
       <!-- Мы в Telegram -->
